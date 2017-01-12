@@ -1,2 +1,8 @@
-# Dharini
-Code
+#include<stdio.h>
+#include<conio.h>
+void main()
+{
+clrscr();
+printf("hello Bala darling");
+getch();
+}
